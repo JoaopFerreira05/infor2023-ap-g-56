@@ -1,0 +1,22 @@
+\documentclass[11pt,openright,twoside]{report}
+\usepackage[T1]{fontenc}
+
+\begin{document}
+
+\title{\textbf{Sistemas Operativos Modernos}}
+\author{119481  120187}
+\date{}
+
+\maketitle
+"Computadores são como bicicletas."*Steve Jobs*. Isto foi o que Steve Jobs disse a jornalista para explicar o que era um computador, dizendo que um computador é como uma bicicleta, amplia as capacidades humanas desde à eficiência de certos trabalhos à maximização da criatividade humana. Isto melhor explorado pode levar a outros significado, como por exemplo, uma bicicleta é veículo que mesmo que não saibamos muito de como funciona ou como é que se anda, não demora muito tempo até conseguirmos andar sozinhos com ela e esse mesmo caso é aplicado aos computadores, pouca gente sabe como é que um computador funciona mas mesmo quem não sabe como funciona ou como é que se trabalha com ele não demora muito tempo até conseguir tirar benefícios dele. Os computadores são objetos que acabaram por se tornar um requisito no nosso dia a dia mas nem sempre eles foram da forma como conhecemos hoje.
+
+\maketitle
+Um computador indo à origem da palavra vem do verbo computar, que por sua vez vem do verbo calcular por isso um computador não muito mais do que um objeto que faz contas. Um dos primeiros computadores foi criado ainda antes de Cristo, o ábaco. O ábaco foi dos primeiros computadores analógicos criado na Mesopotânia (Ásia). Como mostra a Fig.1, *ainda por introduzir uma imagem de uma ábaco* é um instrumento muito rudimentar que permitia aos antigos fazer contas. Depois do aparecimento deste computador surgiu mais ao longo da história como os ossos de napier, a pascalina, máquina de Leibniz, o tear automático, a máquina de diferenças, a máquina analítica de Babbage, o tabulador automático, entre outros.*https://www.atrainformatica.com.br/2023/07/20/historia-e-evolucao-dos-computadores/* *refenrência a partir de "os ossos"*
+
+\maketitle
+ *falar sobre a evolução dos computadores até terem criado o sistema operativo UNIX*
+
+\maketitle
+O grande tópico do trabalho é analizar a história dos sistemas operativos modernos e perceber de modo geral com este funcionavam...
+
+\end{document}
